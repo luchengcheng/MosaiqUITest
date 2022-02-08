@@ -1,0 +1,211 @@
+[General]
+Type = Template
+Description =
+Source Name = FX1
+[Acc_Ion_Open_Applicator]
+Accessory_Code =
+Import Code =
+Machine Code =
+Modality = Ion
+Name = 15
+Shape = Open
+SizeX = 0.0
+SizeY = 0.0
+Slot = 0
+Tray Code = 0
+Type = Applicator
+Use For Discrete Applicator Shape = No
+Verification Type = None
+[Accessories]
+Aperture Slab Thickness = 2.00
+[Beam_C400]
+Energy = 400
+Fixed Angle = No
+Modality = Ion
+Respiration Gating = Yes
+User Defined Modality =
+[Beam_P06]
+Doserate_0 = 0
+Doserate_050 = 50
+Doserate_080 = 80
+Doserate_100 = 100
+Doserate_150 = 150
+Doserate_160 = 160
+Doserate_200 = 200
+Doserate_240 = 240
+Doserate_250 = 250
+Doserate_300 = 300
+Doserate_320 = 320
+Doserate_400 = 400
+Doserate_500 = 500
+Doserate_600 = 600
+Doserate_900 = 900
+Energy = 6
+Modality = Protons
+[Beam_Xray]
+Doserate = 0
+Doserate Code = 0
+Energy = 0
+Energy Code = 0
+Modality = Xrays
+Setup = Yes
+[Collimator]
+CW Angle Change = Decrease
+Discontinuity = 360
+IEC Zero Angle = 0.00
+Most CCW Angle = 165.00
+Most CW Angle = 195.00
+Resolution = 0.1
+[Console]
+Fractional MU = Deci
+Temperature Correction Factor = No
+Type = Hitachi Proton
+[Conversion]
+Apply History to Field = Yes
+Consolidate Histories = Yes
+DICOM Tx Source Model =
+DICOM Tx Source Name =
+DICOM Tx Source Version =
+Original MU Supported = No
+[Couch Angle]
+Centered Angle = 0.0
+CW Angle Change = Decrease
+Discontinuity = 360
+Most CCW Angle = 180.0
+Most CW Angle = 180.0
+Name = Ang
+Resolution = 0.1
+[Couch Height]
+Centered = 0.0
+Discontinuity = 0.0
+Lowered Limit = -100.0
+Name = Vrt
+Raise Change = Increase
+Raised Limit = 100.0
+Resolution = 0.1
+[Couch Lateral]
+Centered = 0.0
+Discontinuity = 0.0
+Left Limit = -100.0
+Name = Lat
+Resolution = 0.1
+Right Change = Increase
+Right Limit = 100.0
+[Couch Longitude]
+Centered = 0.0
+Discontinuity = 0.0
+Insert Change = Increase
+Insert Limit = 200.0
+Name = Lng
+Resolution = 0.1
+Retract Limit = 0.0
+[Display]
+Display Field Size = Diameter
+[Distance]
+Isocenter to Slot Distance_1 = 10
+Isocenter to Slot Distance_2 = 20
+SAD = 100.0
+SFD = 0.0
+Slot Distance_1 = 11
+Slot Distance_2 = 12
+STD = 0.0
+[Energy Absorber_1]
+Energy Absorber ID = 1
+Snout ID = 1
+[Energy Absorber_10]
+Accessory_Code =
+Energy Absorber ID = 10
+Snout ID = 1
+[Energy Absorber_2]
+Energy Absorber ID = EA2
+Snout ID = 0
+[Energy Absorber_3]
+Energy Absorber ID = EA3
+Snout ID = 1
+[Energy Filter_1]
+Energy Filter ID = EF1
+[Energy Filter_2]
+Energy Filter ID = 2
+[Energy Filter_4]
+Energy Filter ID = 4
+[Gantry]
+Beam Down Angle = 0.00
+CW Angle Change = Increase
+Discontinuity = 360
+Fixed = No
+Most CCW Angle = 90.00
+Most CW Angle = 0.00
+Resolution = 0.1
+[Gantry Pitch Angle]
+Centered Angle = 0
+CW Angle Change = Decrease
+Discontinuity = 360
+Most CCW Angle = 90.0
+Most CW Angle = 0.0
+Name = GPt
+Resolution = 0.1
+[IMRT]
+Modulated (Leaping) = No
+Modulated (Linear) = No
+Modulated (Mixed) = No
+Modulated (Stationary) = No
+Spot Scanning = Yes
+[Ion Import Defaults]
+Consolidate Fraction Groups = Yes
+Passive Beam Check Flag = Yes
+Respiratory Gating Flag = Yes
+[kV Imager_1]
+Beam Down Gantry Angle = 90.0
+Beam Down Source Angle = 0.0
+kV Imager Height = 0.0
+kV Imager Width = 0.0
+Max SID = 160.0
+Min SID = 115.0
+SID = 140.0
+[Pitch Angle]
+Centered Angle = 0.0
+CW Angle Change = Increase
+Field Level Entry = Yes
+[Roll Angle]
+Centered Angle = 0.0
+CW Angle Change = Increase
+Field Level Entry = Yes
+[RTP Import Defaults]
+Machine Name Alias_FX1 = FX1
+Machine Name Alias_FX2 = FX2
+Machine Name Alias_zzz G1 v6 = zzz G1 v6
+Machine Name Alias_zzz_G1_v6 = zzz_G1_v6
+[Snout_0]
+Discontinuity = 0.00
+Dummy Plug = No
+Extend Change = Decrease
+Extend Limit = 0.0
+Isocenter = 0.00
+Name = Snt
+Resolution = 0.1
+Retract Limit = 0.0
+Snout ID = 0
+[Snout_1]
+Discontinuity = 0.00
+Dummy Plug = No
+Extend Change = Decrease
+Extend Limit = 0
+Isocenter = 0.00
+Name = Snt
+Resolution = 0.1
+Retract Limit = 72
+Snout ID = 1
+[Snout_2]
+Discontinuity = 0.00
+Dummy Plug = No
+Extend Change = Decrease
+Extend Limit = 0.0
+Isocenter = 0.00
+Name = Snt
+Resolution = 0.1
+Retract Limit = 0.0
+Snout ID = 2
+[Snout_3]
+Dummy Plug = Yes
+Name = NONE
+Snout ID = 15

@@ -1,0 +1,33 @@
+2021-12-23 17:34:48 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-23 17:34:48 [ main:16 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-23 17:34:48 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-23 17:35:14 [ main:26728 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-23 17:35:14 [ main:26730 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-23 17:35:14 [ main:26730 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-23 17:35:28 [ main:40351 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-23 17:35:30 [ main:42749 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-23 17:35:32 [ main:43949 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-23 17:35:33 [ main:45083 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-23 17:35:33 [ main:45084 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-23 17:35:38 [ main:50642 ] - [ INFO ] [Machine Characterization][Button Click] Click 'MaxWindow' Button
+2021-12-23 17:35:40 [ main:52357 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-23 17:40:23 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-23 17:40:23 [ main:12 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-23 17:40:23 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-23 17:42:12 [ main:109757 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-23 17:42:12 [ main:109759 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-23 17:42:12 [ main:109759 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-23 17:42:26 [ main:123495 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-23 17:42:28 [ main:125798 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-23 17:42:29 [ main:126864 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-23 17:42:30 [ main:127836 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-23 17:42:30 [ main:127836 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-23 17:42:41 [ main:138324 ] - [ INFO ] [Machine Characterization][Button Click] Click 'MaxWindow' Button
+2021-12-23 17:42:43 [ main:140392 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-23 17:42:48 [ main:145259 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-23 17:42:53 [ main:150885 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-23 17:43:01 [ main:158606 ] - [ INFO ] [Machine Characterization][Button Click] Click 'Add' Button
+2021-12-23 17:43:24 [ main:181657 ] - [ INFO ] [Machine Characterization][Choose Machine] choose machine
+2021-12-23 17:43:27 [ main:184327 ] - [ INFO ] [Machine Characterization][Button Click] Click button 'All'
+2021-12-23 17:43:31 [ main:188493 ] - [ INFO ] [Machine Characterization][Button Click] Click button 'OK'
+2021-12-23 17:43:34 [ main:190971 ] - [ INFO ] [Machine Characterization][Button Click] Click button 'Import'

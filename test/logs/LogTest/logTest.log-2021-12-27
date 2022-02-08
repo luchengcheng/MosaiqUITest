@@ -1,0 +1,84 @@
+2021-12-27 13:02:37 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:03:08 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:03:34 [ main:26446 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-27 13:03:34 [ main:26455 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-27 13:03:34 [ main:26455 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-27 13:03:48 [ main:40481 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:03:50 [ main:42741 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:03:51 [ main:43745 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:03:52 [ main:44673 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:04:35 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:05:01 [ main:26086 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-27 13:05:01 [ main:26094 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-27 13:05:01 [ main:26094 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-27 13:05:14 [ main:39643 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:05:17 [ main:41844 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:05:18 [ main:42877 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:05:18 [ main:43791 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:11:32 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:11:58 [ main:26149 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-27 13:11:58 [ main:26158 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-27 13:11:58 [ main:26158 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-27 13:12:11 [ main:39815 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:12:14 [ main:42007 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:12:15 [ main:43030 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:12:15 [ main:43938 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:13:53 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:14:19 [ main:26015 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-27 13:14:19 [ main:26023 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-27 13:14:19 [ main:26024 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-27 13:14:33 [ main:39561 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:14:35 [ main:41855 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:14:36 [ main:42844 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:14:37 [ main:43781 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:16:13 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:16:23 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:16:52 [ main:29430 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-27 13:17:20 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-27 13:17:50 [ main:30179 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-27 13:17:50 [ main:30188 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-27 13:17:50 [ main:30189 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-27 13:18:04 [ main:43572 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:18:06 [ main:45578 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:18:07 [ main:46555 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:18:08 [ main:47458 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:29:53 [ main:0 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:29:55 [ main:2111 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:29:56 [ main:3079 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:29:57 [ main:4000 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:36:27 [ main:0 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-27 13:36:30 [ main:2270 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-27 13:36:31 [ main:3258 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-27 13:36:32 [ main:4171 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-27 13:36:32 [ main:4201 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-27 13:36:40 [ main:12793 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-27 13:36:45 [ main:17550 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-27 14:05:27 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-27 14:05:28 [ main:607 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 14:10:59 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-27 14:11:00 [ main:569 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 14:11:04 [ main:4269 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-27 14:21:32 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-27 14:21:32 [ main:528 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 14:21:36 [ main:4230 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-27 14:22:03 [ main:31517 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-27 14:22:08 [ main:35940 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-27 14:22:09 [ main:37204 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 14:22:10 [ main:38010 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-27 14:22:11 [ main:39353 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-27 17:36:48 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-27 17:36:49 [ main:579 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 17:36:52 [ main:4371 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-27 17:37:47 [ main:58577 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-27 17:37:51 [ main:62508 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-27 17:37:52 [ main:63780 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 17:37:53 [ main:64626 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-27 17:37:54 [ main:66014 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-27 17:45:15 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-27 17:45:16 [ main:551 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 17:45:20 [ main:4355 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-27 17:45:45 [ main:29863 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-27 17:45:49 [ main:33806 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-27 17:45:50 [ main:35081 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-27 17:45:51 [ main:35900 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-27 17:46:33 [ main:77225 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window

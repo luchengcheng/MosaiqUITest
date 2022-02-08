@@ -1,0 +1,104 @@
+2021-12-24 15:25:09 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:25:45 [ main:35878 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:31:41 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:32:07 [ main:26035 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:32:07 [ main:26044 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 15:32:07 [ main:26044 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 15:32:20 [ main:39768 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 15:32:23 [ main:42191 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 15:32:24 [ main:43264 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 15:32:25 [ main:44161 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 15:46:21 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:46:48 [ main:26708 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:46:48 [ main:26754 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 15:46:48 [ main:26755 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 15:47:05 [ main:43708 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 15:47:07 [ main:46115 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 15:47:08 [ main:47194 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 15:47:09 [ main:48236 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 15:49:55 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:50:21 [ main:26308 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:50:21 [ main:26317 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 15:50:21 [ main:26317 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 15:50:36 [ main:40660 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 15:50:38 [ main:43167 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 15:50:39 [ main:44254 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 15:50:40 [ main:45255 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 15:54:07 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:54:33 [ main:26453 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:54:33 [ main:26461 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 15:54:33 [ main:26462 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 15:54:48 [ main:41087 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 15:54:50 [ main:43639 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 15:54:52 [ main:44797 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 15:54:53 [ main:45837 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 15:55:45 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:56:11 [ main:26144 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:56:11 [ main:26152 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 15:56:11 [ main:26152 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 15:56:26 [ main:41074 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 15:56:29 [ main:43686 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 15:56:30 [ main:44773 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 15:56:31 [ main:45731 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 15:57:16 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 15:57:43 [ main:26253 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 15:57:43 [ main:26273 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 15:57:43 [ main:26273 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 15:58:01 [ main:44713 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 15:58:04 [ main:47117 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 15:58:05 [ main:48178 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 15:58:06 [ main:49187 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 16:02:04 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 16:02:30 [ main:26089 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 16:02:30 [ main:26101 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 16:02:30 [ main:26101 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 16:02:47 [ main:43064 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 16:02:50 [ main:45946 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 16:02:51 [ main:47055 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 16:02:52 [ main:48039 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-24 16:50:38 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 16:57:56 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 16:59:23 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:02:40 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:03:16 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:03:16 [ main:9 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:03:16 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:04:12 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:04:12 [ main:13 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:04:12 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:05:33 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:05:33 [ main:16 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:05:33 [ main:47 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:08:08 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:08:08 [ main:15 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:08:08 [ main:29 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:13:15 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:13:15 [ main:16 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:13:15 [ main:24 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:14:05 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:14:05 [ main:16 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:14:05 [ main:32 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:19:29 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:19:29 [ main:10 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:19:29 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:19:48 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:19:48 [ main:10 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:19:48 [ main:16 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:20:24 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:20:24 [ main:16 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:20:24 [ main:26 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:23:12 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-24 17:23:12 [ main:15 ] - [ INFO ] ---------------------------Launch Mosaiq, version is LNG_2021.20.014---------------------------
+2021-12-24 17:23:12 [ main:25 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:23:39 [ main:26315 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 17:23:39 [ main:26319 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 17:23:39 [ main:26319 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 17:23:48 [ main:35983 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 17:24:27 [ main:0 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-24 17:24:53 [ main:26255 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-24 17:24:53 [ main:26265 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-24 17:24:53 [ main:26266 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-24 17:25:08 [ main:40514 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-24 17:25:10 [ main:43123 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-24 17:25:11 [ main:44330 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-24 17:25:13 [ main:46099 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully

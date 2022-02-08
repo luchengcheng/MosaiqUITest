@@ -1,0 +1,75 @@
+2021-12-28 13:21:55 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 13:21:56 [ main:518 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 13:21:59 [ main:4254 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 13:22:54 [ main:58671 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 13:22:58 [ main:62598 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 13:22:59 [ main:63871 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 13:23:00 [ main:64665 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 13:23:01 [ main:65929 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 13:36:01 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 13:36:01 [ main:520 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 13:36:05 [ main:4271 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 13:37:00 [ main:59027 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 13:37:04 [ main:63080 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 13:37:05 [ main:64337 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 13:37:06 [ main:65114 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 13:37:07 [ main:66442 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 13:53:40 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 13:53:40 [ main:539 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 13:53:44 [ main:4261 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 13:54:59 [ main:78937 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 13:55:03 [ main:82960 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 13:55:04 [ main:84221 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 13:55:05 [ main:85035 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 13:55:06 [ main:86311 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 14:08:18 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 14:08:18 [ main:493 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 14:08:22 [ main:4221 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 14:08:58 [ main:40400 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 14:09:02 [ main:44455 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 14:09:03 [ main:45735 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 14:09:04 [ main:46560 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 14:09:46 [ main:87842 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 14:21:12 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 14:21:13 [ main:545 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 14:21:14 [ main:2305 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 14:48:04 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 14:48:04 [ main:536 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 14:48:06 [ main:2295 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 14:48:17 [ main:12853 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 14:48:19 [ main:15084 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 14:48:20 [ main:16358 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 14:48:21 [ main:17142 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 14:48:34 [ main:29896 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 15:20:07 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 15:20:07 [ main:570 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:20:09 [ main:2393 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 15:20:20 [ main:13008 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 15:20:22 [ main:15389 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 15:20:23 [ main:16667 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:20:24 [ main:17496 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 15:20:37 [ main:30042 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 15:27:46 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 15:27:47 [ main:661 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:27:49 [ main:2542 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 15:28:00 [ main:13330 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 15:28:02 [ main:15799 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 15:28:04 [ main:17106 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:28:05 [ main:18039 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 15:28:26 [ main:39717 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 15:32:11 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 15:32:11 [ main:684 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:32:13 [ main:2609 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 15:32:24 [ main:13459 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 15:32:27 [ main:15983 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 15:32:28 [ main:17307 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:32:29 [ main:18210 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 15:32:41 [ main:30046 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-28 15:41:33 [ main:0 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-28 15:41:33 [ main:749 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:41:35 [ main:2633 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-28 15:41:46 [ main:13291 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-28 15:41:49 [ main:15967 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-28 15:41:50 [ main:17295 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-28 15:41:51 [ main:18258 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-28 15:41:52 [ main:19868 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window

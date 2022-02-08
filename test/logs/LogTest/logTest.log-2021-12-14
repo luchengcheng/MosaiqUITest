@@ -1,0 +1,658 @@
+2021-12-14 13:53:44 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 13:53:44 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 13:53:44 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 13:57:36 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 13:57:36 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 13:57:36 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 13:58:59 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 13:58:59 [ main:15 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 13:58:59 [ main:23 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 13:59:26 [ main:26454 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 13:59:26 [ main:26463 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 13:59:26 [ main:26463 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 13:59:40 [ main:41131 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 13:59:43 [ main:43844 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 13:59:44 [ main:44978 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 13:59:45 [ main:46019 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 13:59:56 [ main:56646 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:00:04 [ main:64704 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:00:10 [ main:70716 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:00:20 [ main:80789 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:00:28 [ main:88258 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:00:34 [ main:94277 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:00:40 [ main:100545 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:00:51 [ main:111526 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-14 14:06:18 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:06:18 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:06:18 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:06:44 [ main:26302 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:06:44 [ main:26311 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:06:44 [ main:26311 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:06:59 [ main:41429 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:07:02 [ main:44069 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:07:03 [ main:45233 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:07:04 [ main:46318 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:07:14 [ main:56458 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:07:22 [ main:64153 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:07:28 [ main:70169 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:07:38 [ main:80241 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:07:46 [ main:87752 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:07:52 [ main:93788 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:07:58 [ main:100059 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:08:10 [ main:111475 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-14 14:08:47 [ main:149142 ] - [ INFO ] [Add Machine In Location Directory][Input Click] Click 'Add' BUtton
+2021-12-14 14:13:53 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:13:53 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:13:53 [ main:23 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:14:20 [ main:26292 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:14:20 [ main:26298 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:14:20 [ main:26299 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:14:34 [ main:40862 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:14:37 [ main:43369 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:14:38 [ main:44503 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:14:39 [ main:45512 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:14:49 [ main:55652 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:14:56 [ main:63015 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:15:02 [ main:69086 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:15:12 [ main:79163 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:15:20 [ main:86478 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:15:26 [ main:92451 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:15:32 [ main:98500 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:15:43 [ main:109262 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-14 14:16:04 [ main:130631 ] - [ INFO ] [Add Machine In Location Directory][Input Text] Input machine name
+2021-12-14 14:16:10 [ main:136286 ] - [ INFO ] [Add Machine In Location Directory][Input Text] Input machine category
+2021-12-14 14:16:16 [ main:142533 ] - [ INFO ] [Add Machine In Location Directory][Input Text] Input machine type
+2021-12-14 14:16:22 [ main:148472 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Save' Button
+2021-12-14 14:16:33 [ main:159448 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Close' Button
+2021-12-14 14:17:22 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:17:22 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:17:22 [ main:15 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:17:48 [ main:26119 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:17:48 [ main:26122 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:17:48 [ main:26122 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:18:03 [ main:40744 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:18:06 [ main:43368 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:18:07 [ main:44542 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:18:08 [ main:45584 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:18:18 [ main:55718 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:18:25 [ main:63232 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:18:31 [ main:69168 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:18:42 [ main:79244 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:18:49 [ main:86638 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:18:55 [ main:92475 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:19:01 [ main:98686 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:19:12 [ main:109954 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-14 14:19:34 [ main:131524 ] - [ INFO ] [Add Machine In Location Directory][Input Text] Input machine name
+2021-12-14 14:19:40 [ main:137465 ] - [ INFO ] [Add Machine In Location Directory][Input Text] Input machine category
+2021-12-14 14:19:46 [ main:143969 ] - [ INFO ] [Add Machine In Location Directory][Input Text] Input machine type
+2021-12-14 14:22:48 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:22:48 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:22:48 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:23:14 [ main:26196 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:23:14 [ main:26203 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:23:14 [ main:26203 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:23:28 [ main:40483 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:23:31 [ main:43005 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:23:32 [ main:44101 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:23:33 [ main:45120 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:23:43 [ main:55231 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:23:50 [ main:62453 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:23:56 [ main:68253 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:24:06 [ main:78348 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:24:14 [ main:85506 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:24:19 [ main:91185 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:24:25 [ main:97049 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:37:59 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:37:59 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:37:59 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:38:25 [ main:26332 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:38:25 [ main:26341 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:38:25 [ main:26341 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:38:40 [ main:40735 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:38:42 [ main:43324 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:38:43 [ main:44454 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:38:44 [ main:45463 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:38:55 [ main:55578 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:39:02 [ main:62973 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:39:08 [ main:68745 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:39:18 [ main:78812 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:39:25 [ main:85994 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:39:31 [ main:91928 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:39:37 [ main:97838 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:40:25 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:40:25 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:40:25 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:40:51 [ main:26340 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:40:51 [ main:26348 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:40:51 [ main:26349 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:41:06 [ main:40953 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:41:08 [ main:43577 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:41:10 [ main:44738 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:41:11 [ main:45754 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:41:21 [ main:55885 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:41:28 [ main:63322 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:41:34 [ main:69169 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:41:44 [ main:79247 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:41:51 [ main:86531 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:41:57 [ main:92405 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:42:04 [ main:98771 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:44:40 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:44:40 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:44:40 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:45:06 [ main:26311 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:45:06 [ main:26317 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:45:06 [ main:26318 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:45:26 [ main:46516 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:45:29 [ main:49130 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:45:30 [ main:50208 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:45:31 [ main:51278 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:45:41 [ main:61409 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:45:48 [ main:68691 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:45:54 [ main:74478 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:46:04 [ main:84554 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:46:11 [ main:91722 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:46:17 [ main:97524 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:46:23 [ main:103527 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 14:47:26 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:47:26 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:47:26 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:47:52 [ main:26291 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:47:52 [ main:26299 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:47:52 [ main:26299 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:48:07 [ main:40747 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:48:09 [ main:43352 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:48:11 [ main:44478 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:48:12 [ main:45563 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:48:22 [ main:55690 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:48:29 [ main:62970 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:48:35 [ main:69114 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:55:39 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:55:39 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:55:39 [ main:16 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:55:46 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 14:55:46 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 14:55:46 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 14:56:12 [ main:26161 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 14:56:12 [ main:26167 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 14:56:12 [ main:26168 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 14:56:26 [ main:40524 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 14:56:29 [ main:43103 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 14:56:30 [ main:44211 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 14:56:31 [ main:45214 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 14:56:41 [ main:55332 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 14:56:48 [ main:62569 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 14:56:54 [ main:68442 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 14:57:04 [ main:78516 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 14:57:12 [ main:85727 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 14:57:17 [ main:91422 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 14:57:23 [ main:97538 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:03:11 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:03:11 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:03:11 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:03:38 [ main:26386 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:03:38 [ main:26393 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:03:38 [ main:26394 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:03:52 [ main:40941 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:03:55 [ main:43553 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:03:56 [ main:44688 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:03:57 [ main:45759 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:04:07 [ main:55893 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:04:15 [ main:63308 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:04:20 [ main:69096 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:04:30 [ main:79168 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:04:38 [ main:86854 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:04:44 [ main:92954 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:04:50 [ main:98894 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:05:30 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:05:30 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:05:30 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:05:56 [ main:26326 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:05:56 [ main:26333 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:05:56 [ main:26333 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:06:11 [ main:40786 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:06:13 [ main:43410 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:06:15 [ main:44530 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:06:16 [ main:45581 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:06:26 [ main:55711 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:06:33 [ main:62980 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:06:39 [ main:68850 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:06:49 [ main:78929 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:06:56 [ main:86217 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:07:02 [ main:92083 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:07:08 [ main:97946 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:09:38 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:09:38 [ main:18 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:09:38 [ main:28 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:10:56 [ main:77996 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:10:56 [ main:78004 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:10:56 [ main:78005 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:11:10 [ main:92305 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:11:13 [ main:94837 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:11:14 [ main:95948 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:11:15 [ main:96962 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:11:25 [ main:107106 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:11:32 [ main:114435 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:11:38 [ main:120401 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:11:48 [ main:130463 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:11:56 [ main:137720 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:12:02 [ main:143610 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:12:08 [ main:149654 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:15:15 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:15:15 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:15:15 [ main:16 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:15:41 [ main:26270 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:15:41 [ main:26272 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:15:41 [ main:26272 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:15:55 [ main:40750 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:15:58 [ main:43284 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:15:59 [ main:44424 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:16:00 [ main:45519 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:16:10 [ main:55649 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:16:18 [ main:62975 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:16:23 [ main:68855 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:16:34 [ main:78961 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:16:41 [ main:86252 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:16:47 [ main:92035 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:16:53 [ main:98097 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:17:07 [ main:112213 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-14 15:18:07 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:18:07 [ main:16 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:18:07 [ main:27 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:18:35 [ main:28169 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:18:35 [ main:28179 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:18:35 [ main:28179 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:25:35 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:25:35 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:25:35 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:26:02 [ main:26522 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:26:02 [ main:26532 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:26:02 [ main:26532 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:26:17 [ main:41920 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:26:20 [ main:44971 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:26:22 [ main:46282 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:26:23 [ main:47589 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:28:27 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:28:27 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:28:27 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:28:53 [ main:26456 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:28:53 [ main:26466 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:28:53 [ main:26467 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:29:08 [ main:41274 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:29:11 [ main:44084 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:29:12 [ main:45320 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:29:13 [ main:46470 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:29:23 [ main:56629 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:29:31 [ main:64247 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:29:37 [ main:70405 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:29:47 [ main:80476 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:29:55 [ main:87840 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:30:01 [ main:93823 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:30:07 [ main:99914 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:31:00 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:31:00 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:31:00 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:31:27 [ main:26496 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:31:27 [ main:26505 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:31:27 [ main:26505 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:31:41 [ main:41160 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:31:44 [ main:43707 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:31:45 [ main:44825 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:31:46 [ main:45847 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:31:56 [ main:55990 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:32:04 [ main:63538 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:32:10 [ main:69647 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:32:20 [ main:79734 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:32:27 [ main:87155 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:32:33 [ main:93079 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:32:39 [ main:99134 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:47:44 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:47:44 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:47:44 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:48:11 [ main:26509 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:48:11 [ main:26517 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:48:11 [ main:26517 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:48:25 [ main:41176 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:48:28 [ main:43935 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:48:29 [ main:45086 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:48:30 [ main:46126 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:48:40 [ main:56272 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:48:48 [ main:63767 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:48:54 [ main:69871 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:49:04 [ main:79942 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-14 15:49:12 [ main:87517 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-14 15:49:18 [ main:93617 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-14 15:49:24 [ main:99655 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-14 15:51:09 [ main:204727 ] - [ INFO ] [Add Machine In Location Directory] machine FX1has existed.
+2021-12-14 15:51:13 [ main:208967 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 15:52:21 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:52:21 [ main:16 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:52:21 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:52:26 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 15:52:26 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 15:52:26 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 15:52:53 [ main:26415 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 15:52:53 [ main:26422 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 15:52:53 [ main:26423 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 15:53:07 [ main:40918 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 15:53:10 [ main:43623 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 15:53:11 [ main:44723 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 15:53:12 [ main:45788 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 15:53:22 [ main:55918 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-14 15:53:31 [ main:64050 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-14 15:53:37 [ main:70551 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-14 15:53:47 [ main:80629 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 15:53:55 [ main:88290 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 15:54:01 [ main:94372 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 15:54:08 [ main:101190 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:01:47 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:01:47 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:01:47 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:02:14 [ main:26310 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:02:14 [ main:26318 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:02:14 [ main:26318 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:02:28 [ main:40758 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:02:30 [ main:43266 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:02:32 [ main:44369 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:02:33 [ main:45388 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:02:43 [ main:55470 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:02:50 [ main:63258 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:02:56 [ main:69069 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:03:03 [ main:76022 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:13:38 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:13:38 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:13:38 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:14:04 [ main:26319 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:14:04 [ main:26329 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:14:04 [ main:26330 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:14:18 [ main:40742 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:14:21 [ main:43318 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:14:22 [ main:44500 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:14:23 [ main:45493 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:14:33 [ main:55584 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:14:41 [ main:63426 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:14:47 [ main:69065 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:14:53 [ main:75833 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:18:58 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:18:58 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:18:58 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:19:25 [ main:26369 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:19:25 [ main:26377 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:19:25 [ main:26377 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:19:39 [ main:40704 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:19:42 [ main:43374 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:19:43 [ main:44477 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:19:44 [ main:45531 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:19:54 [ main:55622 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:20:02 [ main:63482 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:20:08 [ main:69356 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:20:14 [ main:76084 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:24:05 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:24:05 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:24:05 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:24:32 [ main:26313 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:24:32 [ main:26320 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:24:32 [ main:26321 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:24:46 [ main:40889 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:24:49 [ main:43493 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:24:50 [ main:44624 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:24:51 [ main:45645 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:25:01 [ main:55739 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:25:09 [ main:63762 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:25:15 [ main:69792 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:25:22 [ main:76459 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:34:48 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:34:48 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:34:48 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:35:09 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:35:09 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:35:09 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:35:35 [ main:26108 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:35:35 [ main:26117 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:35:35 [ main:26117 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:35:50 [ main:40970 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:35:52 [ main:43666 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:35:53 [ main:44863 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:35:55 [ main:45997 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:36:05 [ main:56098 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:36:10 [ main:61435 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:36:13 [ main:64880 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:36:36 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:36:36 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:36:36 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:37:02 [ main:26366 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:37:02 [ main:26375 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:37:02 [ main:26375 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:37:17 [ main:41088 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:37:20 [ main:43865 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:37:21 [ main:44998 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:37:22 [ main:46105 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:37:32 [ main:56199 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:37:40 [ main:64441 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:37:47 [ main:70649 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:37:54 [ main:77502 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:42:56 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:42:56 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:42:56 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:43:23 [ main:26351 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:43:23 [ main:26359 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:43:23 [ main:26359 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:43:37 [ main:40806 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:43:40 [ main:43445 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:43:41 [ main:44594 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:43:42 [ main:45648 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:43:52 [ main:55743 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:44:00 [ main:63657 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:44:06 [ main:69642 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:44:13 [ main:76122 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:45:49 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:45:49 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:45:49 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:46:15 [ main:26418 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:46:15 [ main:26427 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:46:15 [ main:26427 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:46:30 [ main:41009 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:46:32 [ main:43698 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:46:34 [ main:44844 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:46:35 [ main:45908 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:46:45 [ main:56001 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:46:53 [ main:64010 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:46:59 [ main:70030 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:47:05 [ main:76649 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:48:25 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:48:25 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:48:25 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:49:51 [ main:85855 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:49:51 [ main:85865 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:49:51 [ main:85865 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:50:05 [ main:100377 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:50:08 [ main:103079 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:50:09 [ main:104228 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:50:10 [ main:105298 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:50:20 [ main:115387 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:50:28 [ main:123287 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:50:34 [ main:129426 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:50:41 [ main:136141 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:53:24 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:53:24 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:53:24 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:54:27 [ main:62542 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:54:27 [ main:62551 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:54:27 [ main:62551 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:54:41 [ main:77115 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:55:38 [ main:133931 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:55:39 [ main:135062 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:55:40 [ main:136144 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:55:50 [ main:146227 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:55:58 [ main:154125 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:56:04 [ main:159825 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:56:11 [ main:166707 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:57:52 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:57:52 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:57:52 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 16:58:18 [ main:26355 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 16:58:18 [ main:26364 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 16:58:18 [ main:26364 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 16:58:33 [ main:40925 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 16:58:35 [ main:43596 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 16:58:36 [ main:44759 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 16:58:37 [ main:45779 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 16:58:47 [ main:55872 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 16:58:56 [ main:64016 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 16:59:01 [ main:69810 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 16:59:08 [ main:76657 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 16:59:56 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 16:59:56 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 16:59:56 [ main:25 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:00:23 [ main:26366 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:00:23 [ main:26377 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:00:23 [ main:26377 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:00:37 [ main:40998 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:00:40 [ main:43544 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:00:41 [ main:44672 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:00:42 [ main:45726 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:00:52 [ main:55821 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:01:00 [ main:63543 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:01:06 [ main:69575 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:01:13 [ main:76289 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:02:53 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:02:53 [ main:9 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:02:53 [ main:15 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:03:19 [ main:26350 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:03:19 [ main:26361 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:03:19 [ main:26362 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:03:34 [ main:41020 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:03:37 [ main:43604 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:03:38 [ main:44737 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:03:39 [ main:45791 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:03:49 [ main:55890 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:03:57 [ main:64048 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:04:03 [ main:69936 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:04:10 [ main:76587 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:05:52 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:05:52 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:05:52 [ main:22 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:06:19 [ main:26385 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:06:19 [ main:26394 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:06:19 [ main:26394 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:06:33 [ main:41075 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:06:36 [ main:43896 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:06:37 [ main:45051 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:06:38 [ main:46127 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:06:49 [ main:56227 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:06:57 [ main:64396 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:07:03 [ main:70508 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:07:10 [ main:77266 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:08:35 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:08:35 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:08:35 [ main:15 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:09:01 [ main:26423 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:09:01 [ main:26432 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:09:01 [ main:26432 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:09:16 [ main:40879 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:09:18 [ main:43549 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:09:20 [ main:44717 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:09:21 [ main:45817 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:09:31 [ main:55913 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:09:39 [ main:63936 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:09:45 [ main:69975 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:09:52 [ main:76832 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:16:28 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:16:28 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:16:28 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:16:55 [ main:26401 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:16:55 [ main:26410 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:16:55 [ main:26410 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:17:09 [ main:40753 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:17:11 [ main:43268 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:17:13 [ main:44345 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:17:14 [ main:45434 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:17:24 [ main:55543 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:17:32 [ main:63662 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:17:38 [ main:69660 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:17:44 [ main:76225 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:18:47 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:18:47 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:18:47 [ main:21 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:19:13 [ main:26425 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:19:13 [ main:26432 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:19:13 [ main:26432 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:19:27 [ main:40728 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:19:30 [ main:43264 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:19:31 [ main:44407 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:19:32 [ main:45412 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:19:42 [ main:55523 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:19:50 [ main:63467 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:19:56 [ main:69252 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:20:03 [ main:75879 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:28:13 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:28:13 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:28:13 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:28:39 [ main:26319 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:28:39 [ main:26328 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:28:39 [ main:26328 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:28:53 [ main:40771 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:28:56 [ main:43512 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:28:57 [ main:44682 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:28:58 [ main:45774 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:29:08 [ main:55862 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:29:16 [ main:63751 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:29:22 [ main:69659 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:29:29 [ main:76165 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:30:00 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:30:00 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:30:00 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:30:27 [ main:26389 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:30:27 [ main:26398 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:30:27 [ main:26398 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:30:42 [ main:41449 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:30:44 [ main:44097 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:30:45 [ main:45278 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:30:47 [ main:46335 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:30:57 [ main:56430 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:31:05 [ main:64545 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:31:11 [ main:71021 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:31:18 [ main:78088 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:33:46 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:33:46 [ main:9 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:33:46 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:34:12 [ main:26344 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:34:12 [ main:26353 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:34:12 [ main:26353 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:34:26 [ main:40947 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:34:29 [ main:43497 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:34:30 [ main:44640 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:34:31 [ main:45740 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:34:41 [ main:55842 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:34:49 [ main:63668 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:34:55 [ main:69352 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:35:02 [ main:76104 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:43:34 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:43:34 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:43:34 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:44:00 [ main:26286 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:44:00 [ main:26294 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:44:00 [ main:26294 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:44:14 [ main:40792 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:44:17 [ main:43447 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:44:18 [ main:44587 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:44:19 [ main:45671 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:44:29 [ main:55760 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:44:37 [ main:63648 ] - [ INFO ] [Machine Characterization][Button Click] Click 'MaxWindow' Button
+2021-12-14 17:44:40 [ main:66034 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:44:45 [ main:71838 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:44:52 [ main:78315 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton
+2021-12-14 17:47:04 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-14 17:47:04 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-14 17:47:04 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-14 17:47:30 [ main:26372 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-14 17:47:30 [ main:26382 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-14 17:47:30 [ main:26382 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-14 17:47:45 [ main:40890 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-14 17:47:47 [ main:43559 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-14 17:47:48 [ main:44737 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-14 17:47:49 [ main:45720 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-14 17:47:59 [ main:55823 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine characterization---------------------------
+2021-12-14 17:48:07 [ main:63824 ] - [ INFO ] [Machine Characterization][Button Click] Click 'MaxWindow' Button
+2021-12-14 17:48:10 [ main:66247 ] - [ INFO ] [Machine Characterization][Button Click] Click 'File' Button
+2021-12-14 17:48:16 [ main:72136 ] - [ INFO ] [Machine Characterization][Button Click] Click 'System Utilities' Button
+2021-12-14 17:48:22 [ main:78711 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Machine Characterization...' BUtton

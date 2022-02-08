@@ -1,0 +1,94 @@
+2021-12-10 15:32:12 [ main:0 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-10 15:32:12 [ main:5 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-10 15:32:38 [ main:26434 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-10 15:32:38 [ main:26437 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-10 15:32:38 [ main:26437 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-10 15:32:43 [ main:30980 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-10 15:32:46 [ main:33522 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-10 15:32:47 [ main:34602 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-10 15:32:48 [ main:35658 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-10 15:32:58 [ main:45800 ] - [ INFO ] ---------------------------MOSAIQ : start to register patient---------------------------
+2021-12-10 15:33:08 [ main:56316 ] - [ INFO ] [RegisterPatient][Button Click] Click 'File' Button
+2021-12-10 15:33:19 [ main:67421 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Register New Patient...' Button
+2021-12-10 15:33:32 [ main:80347 ] - [ INFO ] [RegisterPatient][Test Input] input 'Last Name' for patient
+2021-12-10 15:33:36 [ main:83632 ] - [ INFO ] [RegisterPatient][Test Input] input 'First Name' for patient
+2021-12-10 15:33:39 [ main:87293 ] - [ INFO ] [RegisterPatient][Test Input] input 'Patient ID' for patient
+2021-12-10 15:33:46 [ main:93734 ] - [ INFO ] [RegisterPatient][Button Click] Click '&Physicians/Diagnosis' Button
+2021-12-10 15:34:11 [ main:0 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-10 15:34:11 [ main:8 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-10 15:34:37 [ main:26525 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-10 15:34:37 [ main:26527 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-10 15:34:37 [ main:26528 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-10 15:34:42 [ main:31494 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-10 15:34:45 [ main:34286 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-10 15:34:47 [ main:35726 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-10 15:34:48 [ main:37081 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-10 15:34:58 [ main:47254 ] - [ INFO ] ---------------------------MOSAIQ : start to register patient---------------------------
+2021-12-10 15:35:09 [ main:57638 ] - [ INFO ] [RegisterPatient][Button Click] Click 'File' Button
+2021-12-10 15:35:20 [ main:68647 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Register New Patient...' Button
+2021-12-10 15:35:33 [ main:81698 ] - [ INFO ] [RegisterPatient][Test Input] input 'Last Name' for patient
+2021-12-10 15:35:36 [ main:84929 ] - [ INFO ] [RegisterPatient][Test Input] input 'First Name' for patient
+2021-12-10 15:35:39 [ main:88524 ] - [ INFO ] [RegisterPatient][Test Input] input 'Patient ID' for patient
+2021-12-10 15:35:46 [ main:94725 ] - [ INFO ] [RegisterPatient][Button Click] Click '&Physicians/Diagnosis' Button
+2021-12-10 15:36:16 [ main:125407 ] - [ INFO ] [RegisterPatient][Button Click] Click the first one 'Physicians' 
+2021-12-10 15:36:23 [ main:131682 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Select' Button in 'Select Physicians' window
+2021-12-10 15:36:28 [ main:136675 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Save' Button in 'Select Physicians' window
+2021-12-10 15:36:39 [ main:147658 ] - [ INFO ] [RegisterPatient][Button Click] Click 'No' Button in 'No Duplicate Patients Found' window
+2021-12-10 15:36:39 [ main:147659 ] - [ INFO ] start to import patient treatment plan
+2021-12-10 15:36:39 [ main:147659 ] - [ INFO ] [Launch APP] start to launch Dcmwin.exe
+2021-12-10 15:36:46 [ main:154845 ] - [ INFO ] [Launch APP] Dcmwin.exe launch successfully
+2021-12-10 15:36:46 [ main:154846 ] - [ INFO ] [Launch APP] start to launch Impac.Mosaiq.Dicom.Services.WQEService.WQEProcessorSystemTray.exe
+2021-12-10 15:37:12 [ main:180608 ] - [ INFO ] [Launch APP] Impac.Mosaiq.Dicom.Services.WQEService.WQEProcessorSystemTray.exe launch successfully
+2021-12-10 15:37:12 [ main:180608 ] - [ INFO ] DCMtree version:LNG_2021.20.014
+2021-12-10 15:37:12 [ main:180609 ] - [ INFO ] [Launch APP] start to launch DCMtree.exe
+2021-12-10 15:37:17 [ main:186497 ] - [ INFO ] [Launch APP] DCMtree.exe launch successfully
+2021-12-10 15:37:17 [ main:186501 ] - [ INFO ] ---------------------------DCMtree : start to import plan---------------------------
+2021-12-10 15:37:18 [ main:187200 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-10 15:37:22 [ main:191030 ] - [ INFO ] [Button Click] 'Add...' Button click in DCMTree window
+2021-12-10 15:37:45 [ main:214048 ] - [ INFO ] [Text Input] Input plan path in Open window
+2021-12-10 15:37:47 [ main:216317 ] - [ INFO ] [Button Click] 'Open' Button click in Open window
+2021-12-10 15:37:49 [ main:217583 ] - [ INFO ] [Button Click] 'File' Button click in DCMTree window
+2021-12-10 15:37:49 [ main:218429 ] - [ INFO ] [Button Click] 'Transmit...' Button click in DCMTree window
+2021-12-10 15:38:36 [ main:265516 ] - [ INFO ] [Button Click] 'Send' Button click in 'Send DICOM File' window
+2021-12-10 15:45:35 [ main:0 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-10 15:45:35 [ main:10 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-10 15:46:02 [ main:26428 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-10 15:46:02 [ main:26437 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-10 15:46:02 [ main:26438 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-10 15:46:07 [ main:31032 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-10 15:46:09 [ main:33608 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-10 15:46:10 [ main:34723 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-10 15:46:11 [ main:35766 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-10 15:46:21 [ main:45899 ] - [ INFO ] ---------------------------MOSAIQ : start to register patient---------------------------
+2021-12-10 15:46:32 [ main:56052 ] - [ INFO ] [RegisterPatient][Button Click] Click 'File' Button
+2021-12-10 15:46:42 [ main:66831 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Register New Patient...' Button
+2021-12-10 15:46:55 [ main:79536 ] - [ INFO ] [RegisterPatient][Test Input] input 'Last Name' for patient
+2021-12-10 15:46:58 [ main:82906 ] - [ INFO ] [RegisterPatient][Test Input] input 'First Name' for patient
+2021-12-10 15:47:02 [ main:86465 ] - [ INFO ] [RegisterPatient][Test Input] input 'Patient ID' for patient
+2021-12-10 15:47:08 [ main:92747 ] - [ INFO ] [RegisterPatient][Button Click] Click '&Physicians/Diagnosis' Button
+2021-12-10 15:47:38 [ main:122444 ] - [ INFO ] [RegisterPatient][Button Click] Click the first one 'Physicians' 
+2021-12-10 15:47:45 [ main:129601 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Select' Button in 'Select Physicians' window
+2021-12-10 15:47:50 [ main:134292 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Save' Button in 'Select Physicians' window
+2021-12-10 15:48:00 [ main:144896 ] - [ INFO ] [RegisterPatient][Button Click] Click 'No' Button in 'No Duplicate Patients Found' window
+2021-12-10 15:48:00 [ main:144896 ] - [ INFO ] ---------------------------MOSAIQ : start to Promote Plan---------------------------
+2021-12-10 15:51:48 [ main:0 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-10 15:51:48 [ main:8 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-10 15:52:14 [ main:26432 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-10 15:52:14 [ main:26440 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-10 15:52:14 [ main:26440 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-10 15:52:19 [ main:30986 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-10 15:52:21 [ main:33488 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-10 15:52:22 [ main:34571 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-10 15:52:23 [ main:35616 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-10 15:52:34 [ main:45768 ] - [ INFO ] ---------------------------MOSAIQ : start to register patient---------------------------
+2021-12-10 15:52:44 [ main:56063 ] - [ INFO ] [RegisterPatient][Button Click] Click 'File' Button
+2021-12-10 15:52:55 [ main:66963 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Register New Patient...' Button
+2021-12-10 15:53:08 [ main:79869 ] - [ INFO ] [RegisterPatient][Test Input] input 'Last Name' for patient
+2021-12-10 15:53:11 [ main:83104 ] - [ INFO ] [RegisterPatient][Test Input] input 'First Name' for patient
+2021-12-10 15:53:14 [ main:86682 ] - [ INFO ] [RegisterPatient][Test Input] input 'Patient ID' for patient
+2021-12-10 15:53:20 [ main:92719 ] - [ INFO ] [RegisterPatient][Button Click] Click '&Physicians/Diagnosis' Button
+2021-12-10 15:53:51 [ main:123342 ] - [ INFO ] [RegisterPatient][Button Click] Click the first one 'Physicians' 
+2021-12-10 15:53:57 [ main:129635 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Select' Button in 'Select Physicians' window
+2021-12-10 15:54:02 [ main:134349 ] - [ INFO ] [RegisterPatient][Button Click] Click 'Save' Button in 'Select Physicians' window
+2021-12-10 15:54:13 [ main:145048 ] - [ INFO ] [RegisterPatient][Button Click] Click 'No' Button in 'No Duplicate Patients Found' window
+2021-12-10 15:54:13 [ main:145048 ] - [ INFO ] ---------------------------MOSAIQ : start to Promote Plan---------------------------

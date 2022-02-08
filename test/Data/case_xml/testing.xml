@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="MOSAIQ_UI">
+<test name="UI_Test">
+    <classes>
+        <class name="UIAuto.HelloMosaiq.HelloMosaiq_Case1">
+		 <methods >
+		  <include name="Login" />
+          <include name="SelectPatient" />
+<!--          <include name="RegisterPatient" />-->
+          <include name="ImportPlan" />
+<!--          <include name="AddMachineInLocation" />-->
+<!--          <include name="UpdateMachineCharacterization" />-->
+<!--          <include name="UpdateImpac" />-->
+         </methods >
+		</class>
+    </classes>
+</test>
+<listeners>
+    <listener class-name="util.TestReport.ExtentTestNGIReporterListener"/>
+    <listener class-name="util.TestReport.TestingListener"/>
+</listeners>
+</suite>

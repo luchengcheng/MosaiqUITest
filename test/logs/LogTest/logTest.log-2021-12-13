@@ -1,0 +1,834 @@
+2021-12-13 14:18:10 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:18:10 [ main:21 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:18:10 [ main:32 ] - [ INFO ] ""[Global]
+
+2021-12-13 14:18:10 [ main:33 ] - [ INFO ] ""Inst_ID=1
+
+2021-12-13 14:18:10 [ main:33 ] - [ INFO ] ""Temp=C:\Temp
+
+2021-12-13 14:18:10 [ main:33 ] - [ INFO ] ""WorkstationID=
+
+2021-12-13 14:18:10 [ main:33 ] - [ INFO ] ""ACC:G:Stf_ID=0
+
+2021-12-13 14:18:10 [ main:33 ] - [ INFO ] ""MQFrameXYWH1536x864=2391,-9,2418,1468
+
+2021-12-13 14:18:10 [ main:34 ] - [ INFO ] ""CustomerReportsLoc=C:\MOSAIQ\3.10\3.10.074\IMPAC\MOSAIQ_APP\Reports\1\ 
+
+2021-12-13 14:18:10 [ main:34 ] - [ INFO ] ""Calculator=Calc.exe
+
+2021-12-13 14:18:10 [ main:34 ] - [ INFO ] ""AutoLogout=0
+
+2021-12-13 14:18:10 [ main:34 ] - [ INFO ] ""AutoCWSLogout=0
+
+2021-12-13 14:18:10 [ main:35 ] - [ INFO ] ""Workstation Location=
+
+2021-12-13 14:18:10 [ main:35 ] - [ INFO ] ""MQFrameXYWH1920x1080=-8,-8,1936,1056
+
+2021-12-13 14:18:10 [ main:35 ] - [ INFO ] ""MQFrameXYWH1920x1200=-8,-8,1936,1176
+
+2021-12-13 14:18:10 [ main:35 ] - [ INFO ] ""MQFrameXYWH2560x1440=-8,-8,2576,1416
+
+2021-12-13 14:18:10 [ main:35 ] - [ INFO ] ""[Barcode]
+
+2021-12-13 14:18:10 [ main:36 ] - [ INFO ] ""Auto Queue Location=
+
+2021-12-13 14:18:10 [ main:36 ] - [ INFO ] ""Auto Queue=0
+
+2021-12-13 14:18:10 [ main:36 ] - [ INFO ] ""[ESCRIBE]
+
+2021-12-13 14:18:10 [ main:36 ] - [ INFO ] ""UseWordViewer=YES
+
+2021-12-13 14:18:10 [ main:36 ] - [ INFO ] ""[BdsWorkstationSetup]
+
+2021-12-13 14:18:10 [ main:36 ] - [ INFO ] ""WorkstationID=MinimalBDSWkstn_TRFMSQ0156
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] ""BdsZoneID=2
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] "";Default BDS settings added automatically. Date=5/28/2021 11:49:21 AM
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] "";------------------------------------------------IFS1909 VMI--------------------------------------------------------------------------------------------
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] ""[VMI]
+
+2021-12-13 14:18:10 [ main:37 ] - [ INFO ] ""VMIType=DTMI
+
+2021-12-13 14:18:10 [ main:38 ] - [ INFO ] ""VMIConfig=C:\APPS\IMPAC\MOSAIQ_APP\VMI\FX1.cfg
+
+2021-12-13 14:18:10 [ main:38 ] - [ INFO ] ""Number of IODs=0
+
+2021-12-13 14:18:10 [ main:38 ] - [ INFO ] "";No Setup=1 // do not to change
+
+2021-12-13 14:18:10 [ main:38 ] - [ INFO ] ""No Ports=1
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] ""No Open Ports=1
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] ""[PROTON]
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] "";Hitachi和非Hitachi机器在此切换：
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] ""MachineName="Hitachi"
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:39 ] - [ INFO ] "";MachineName="StillRiver" 
+
+2021-12-13 14:18:10 [ main:40 ] - [ INFO ] "";DTMIClass=Impac.Mosaiq.Dicom.DTMI.IFS1909.DTMIIFS1909	
+
+2021-12-13 14:18:10 [ main:40 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:40 ] - [ INFO ] ""GetActuals="True"
+
+2021-12-13 14:18:10 [ main:40 ] - [ INFO ] ""SEQ_AE_TITLE="IMS_SEQ1"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] ""PTCS_AE_TITLE="IFS1909_SCP"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] ""SEQ_SERVICE_LIST="IMS_SEQ1_SERVICE_LIST"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] "";PTCS_AE_TITLE="TCS"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] "";PPVS_AE_Title="DVTK"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] "";PPVS_AE_Title="DVT_PPVS"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] ""PPVS_AE_Title="DVTK_STR_SCP"
+
+2021-12-13 14:18:10 [ main:41 ] - [ INFO ] ""Import_Staging_Area=C:\APPS\DCM\Proton\Import
+
+2021-12-13 14:18:10 [ main:42 ] - [ INFO ] ""Export_Staging_Area=C:\APPS\DCM\Proton\Export
+
+2021-12-13 14:18:10 [ main:42 ] - [ INFO ] ""Namer_Staging_Area=C:\APPS\NMR\STAGEDCM
+
+2021-12-13 14:18:10 [ main:42 ] - [ INFO ] ""HardwareInterlock=FALSE
+
+2021-12-13 14:18:10 [ main:42 ] - [ INFO ] ""SendPlanTimeOut=300
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] ""SpotScanning=True
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] ""DisbaleLoadReferenceData=1
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] ""VerifyHitachiRangeShifterByIdInsteadOfAccessoryCode=1
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] ""EnableMBCSNameExport=1
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] "";DisableLoadReferenceData=1
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] "";ForceNPvsMU=1
+
+2021-12-13 14:18:10 [ main:43 ] - [ INFO ] ""	
+
+2021-12-13 14:18:10 [ main:44 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:44 ] - [ INFO ] ""DisableLoadReferenceData=1		
+
+2021-12-13 14:18:10 [ main:44 ] - [ INFO ] ""DisableLoadReferenceDataForQA=1 
+
+2021-12-13 14:18:10 [ main:44 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:45 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:45 ] - [ INFO ] ""[Local Cache]
+
+2021-12-13 14:18:10 [ main:45 ] - [ INFO ] ""Staff=0
+
+2021-12-13 14:18:10 [ main:74 ] - [ INFO ] [Impac.ini] After updating impac.ini
+2021-12-13 14:18:10 [ main:75 ] - [ INFO ] ""[Global]
+
+2021-12-13 14:18:10 [ main:75 ] - [ INFO ] ""Inst_ID = 1
+
+2021-12-13 14:18:10 [ main:75 ] - [ INFO ] ""Temp = C\:Temp
+
+2021-12-13 14:18:10 [ main:76 ] - [ INFO ] ""WorkstationID = 
+
+2021-12-13 14:18:10 [ main:76 ] - [ INFO ] ""ACC = G\:Stf_ID\=0
+
+2021-12-13 14:18:10 [ main:76 ] - [ INFO ] ""MQFrameXYWH1536x864 = 2391,-9,2418,1468
+
+2021-12-13 14:18:10 [ main:76 ] - [ INFO ] ""CustomerReportsLoc = C\:MOSAIQ3.103.10.074IMPACMOSAIQ_APPReports1Calculator\=Calc.exe
+
+2021-12-13 14:18:10 [ main:76 ] - [ INFO ] ""AutoLogout = 0
+
+2021-12-13 14:18:10 [ main:77 ] - [ INFO ] ""AutoCWSLogout = 0
+
+2021-12-13 14:18:10 [ main:77 ] - [ INFO ] ""Workstation Location = 
+
+2021-12-13 14:18:10 [ main:77 ] - [ INFO ] ""MQFrameXYWH1920x1080 = -8,-8,1936,1056
+
+2021-12-13 14:18:10 [ main:77 ] - [ INFO ] ""MQFrameXYWH1920x1200 = -8,-8,1936,1176
+
+2021-12-13 14:18:10 [ main:77 ] - [ INFO ] ""MQFrameXYWH2560x1440 = -8,-8,2576,1416
+
+2021-12-13 14:18:10 [ main:77 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:78 ] - [ INFO ] ""[Barcode]
+
+2021-12-13 14:18:10 [ main:78 ] - [ INFO ] ""Auto Queue Location = 
+
+2021-12-13 14:18:10 [ main:78 ] - [ INFO ] ""Auto Queue = 0
+
+2021-12-13 14:18:10 [ main:78 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:79 ] - [ INFO ] ""[ESCRIBE]
+
+2021-12-13 14:18:10 [ main:79 ] - [ INFO ] ""UseWordViewer = YES
+
+2021-12-13 14:18:10 [ main:79 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:79 ] - [ INFO ] ""[BdsWorkstationSetup]
+
+2021-12-13 14:18:10 [ main:80 ] - [ INFO ] ""WorkstationID = MinimalBDSWkstn_TRFMSQ0156
+
+2021-12-13 14:18:10 [ main:80 ] - [ INFO ] ""BdsZoneID = 2
+
+2021-12-13 14:18:10 [ main:80 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:80 ] - [ INFO ] ""#------------------------------------------------IFS1909 VMI--------------------------------------------------------------------------------------------
+
+2021-12-13 14:18:10 [ main:81 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:81 ] - [ INFO ] ""[VMI]
+
+2021-12-13 14:18:10 [ main:81 ] - [ INFO ] ""VMIType = DTMI
+
+2021-12-13 14:18:10 [ main:82 ] - [ INFO ] ""VMIConfig = D\:\\MyProject\\test\\Data\\case\\FX1.cfg
+
+2021-12-13 14:18:10 [ main:82 ] - [ INFO ] ""Number of IODs = 0
+
+2021-12-13 14:18:10 [ main:82 ] - [ INFO ] ""#No Setup=1 // do not to change
+
+2021-12-13 14:18:10 [ main:83 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:83 ] - [ INFO ] ""No Ports = 1
+
+2021-12-13 14:18:10 [ main:83 ] - [ INFO ] ""No Open Ports = 1
+
+2021-12-13 14:18:10 [ main:84 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:84 ] - [ INFO ] ""[PROTON]
+
+2021-12-13 14:18:10 [ main:84 ] - [ INFO ] ""#Hitachi和非Hitachi机器在此切换：
+
+2021-12-13 14:18:10 [ main:85 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:85 ] - [ INFO ] ""MachineName = Hitachi
+
+2021-12-13 14:18:10 [ main:85 ] - [ INFO ] ""#MachineName="StillRiver"
+
+2021-12-13 14:18:10 [ main:85 ] - [ INFO ] ""#DTMIClass=Impac.Mosaiq.Dicom.DTMI.IFS1909.DTMIIFS1909
+
+2021-12-13 14:18:10 [ main:86 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:86 ] - [ INFO ] ""GetActuals = "True"
+
+2021-12-13 14:18:10 [ main:86 ] - [ INFO ] ""SEQ_AE_TITLE = "IMS_SEQ1"
+
+2021-12-13 14:18:10 [ main:86 ] - [ INFO ] ""PTCS_AE_TITLE = "IFS1909_SCP"
+
+2021-12-13 14:18:10 [ main:86 ] - [ INFO ] ""SEQ_SERVICE_LIST = "IMS_SEQ1_SERVICE_LIST"
+
+2021-12-13 14:18:10 [ main:87 ] - [ INFO ] ""#PTCS_AE_TITLE="TCS"
+
+2021-12-13 14:18:10 [ main:87 ] - [ INFO ] ""#PPVS_AE_Title="DVTK"
+
+2021-12-13 14:18:10 [ main:87 ] - [ INFO ] ""#PPVS_AE_Title="DVT_PPVS"
+
+2021-12-13 14:18:10 [ main:87 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:87 ] - [ INFO ] ""PPVS_AE_Title = "DVTK_STR_SCP"
+
+2021-12-13 14:18:10 [ main:88 ] - [ INFO ] ""Import_Staging_Area = C\:APPSDCMProtonImport
+
+2021-12-13 14:18:10 [ main:88 ] - [ INFO ] ""Export_Staging_Area = C\:APPSDCMProtonExport
+
+2021-12-13 14:18:10 [ main:88 ] - [ INFO ] ""Namer_Staging_Area = C\:APPSNMRSTAGEDCM
+
+2021-12-13 14:18:10 [ main:88 ] - [ INFO ] ""HardwareInterlock = FALSE
+
+2021-12-13 14:18:10 [ main:88 ] - [ INFO ] ""SendPlanTimeOut = 300
+
+2021-12-13 14:18:10 [ main:89 ] - [ INFO ] ""SpotScanning = True
+
+2021-12-13 14:18:10 [ main:89 ] - [ INFO ] ""DisbaleLoadReferenceData = 1
+
+2021-12-13 14:18:10 [ main:89 ] - [ INFO ] ""VerifyHitachiRangeShifterByIdInsteadOfAccessoryCode = 1
+
+2021-12-13 14:18:10 [ main:89 ] - [ INFO ] ""EnableMBCSNameExport = 1
+
+2021-12-13 14:18:10 [ main:89 ] - [ INFO ] ""#DisableLoadReferenceData=1
+
+2021-12-13 14:18:10 [ main:90 ] - [ INFO ] ""#ForceNPvsMU=1
+
+2021-12-13 14:18:10 [ main:90 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:90 ] - [ INFO ] ""DisableLoadReferenceData = 1
+
+2021-12-13 14:18:10 [ main:90 ] - [ INFO ] ""DisableLoadReferenceDataForQA = 1
+
+2021-12-13 14:18:10 [ main:90 ] - [ INFO ] ""
+
+2021-12-13 14:18:10 [ main:90 ] - [ INFO ] ""[Local Cache]
+
+2021-12-13 14:18:10 [ main:91 ] - [ INFO ] ""Staff = 0
+
+2021-12-13 14:18:10 [ main:91 ] - [ INFO ] ""
+
+2021-12-13 14:19:28 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:19:28 [ main:18 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:19:28 [ main:27 ] - [ INFO ] "[Global]"
+2021-12-13 14:19:28 [ main:27 ] - [ INFO ] "Inst_ID = 1"
+2021-12-13 14:19:28 [ main:27 ] - [ INFO ] "Temp = C\:Temp"
+2021-12-13 14:19:28 [ main:27 ] - [ INFO ] "WorkstationID = "
+2021-12-13 14:19:28 [ main:28 ] - [ INFO ] "ACC = G\:Stf_ID\=0"
+2021-12-13 14:19:28 [ main:28 ] - [ INFO ] "MQFrameXYWH1536x864 = 2391,-9,2418,1468"
+2021-12-13 14:19:28 [ main:28 ] - [ INFO ] "CustomerReportsLoc = C\:MOSAIQ3.103.10.074IMPACMOSAIQ_APPReports1Calculator\=Calc.exe"
+2021-12-13 14:19:28 [ main:29 ] - [ INFO ] "AutoLogout = 0"
+2021-12-13 14:19:28 [ main:29 ] - [ INFO ] "AutoCWSLogout = 0"
+2021-12-13 14:19:28 [ main:29 ] - [ INFO ] "Workstation Location = "
+2021-12-13 14:19:28 [ main:29 ] - [ INFO ] "MQFrameXYWH1920x1080 = -8,-8,1936,1056"
+2021-12-13 14:19:28 [ main:29 ] - [ INFO ] "MQFrameXYWH1920x1200 = -8,-8,1936,1176"
+2021-12-13 14:19:28 [ main:29 ] - [ INFO ] "MQFrameXYWH2560x1440 = -8,-8,2576,1416"
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] "[Barcode]"
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] "Auto Queue Location = "
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] "Auto Queue = 0"
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] "[ESCRIBE]"
+2021-12-13 14:19:28 [ main:30 ] - [ INFO ] "UseWordViewer = YES"
+2021-12-13 14:19:28 [ main:31 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:31 ] - [ INFO ] "[BdsWorkstationSetup]"
+2021-12-13 14:19:28 [ main:31 ] - [ INFO ] "WorkstationID = MinimalBDSWkstn_TRFMSQ0156"
+2021-12-13 14:19:28 [ main:31 ] - [ INFO ] "BdsZoneID = 2"
+2021-12-13 14:19:28 [ main:31 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:31 ] - [ INFO ] "#------------------------------------------------IFS1909 VMI--------------------------------------------------------------------------------------------"
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] "[VMI]"
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] "VMIType = DTMI"
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] "VMIConfig = D\:\\MyProject\\test\\Data\\case\\FX1.cfg"
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] "Number of IODs = 0"
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] "#No Setup=1 // do not to change"
+2021-12-13 14:19:28 [ main:32 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:33 ] - [ INFO ] "No Ports = 1"
+2021-12-13 14:19:28 [ main:33 ] - [ INFO ] "No Open Ports = 1"
+2021-12-13 14:19:28 [ main:33 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:33 ] - [ INFO ] "[PROTON]"
+2021-12-13 14:19:28 [ main:33 ] - [ INFO ] "#Hitachi和非Hitachi机器在此切换："
+2021-12-13 14:19:28 [ main:34 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:34 ] - [ INFO ] "MachineName = Hitachi"
+2021-12-13 14:19:28 [ main:34 ] - [ INFO ] "#MachineName="StillRiver""
+2021-12-13 14:19:28 [ main:34 ] - [ INFO ] "#DTMIClass=Impac.Mosaiq.Dicom.DTMI.IFS1909.DTMIIFS1909"
+2021-12-13 14:19:28 [ main:34 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:34 ] - [ INFO ] "GetActuals = "True""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "SEQ_AE_TITLE = "IMS_SEQ1""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "PTCS_AE_TITLE = "IFS1909_SCP""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "SEQ_SERVICE_LIST = "IMS_SEQ1_SERVICE_LIST""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "#PTCS_AE_TITLE="TCS""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "#PPVS_AE_Title="DVTK""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "#PPVS_AE_Title="DVT_PPVS""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:35 ] - [ INFO ] "PPVS_AE_Title = "DVTK_STR_SCP""
+2021-12-13 14:19:28 [ main:36 ] - [ INFO ] "Import_Staging_Area = C\:APPSDCMProtonImport"
+2021-12-13 14:19:28 [ main:36 ] - [ INFO ] "Export_Staging_Area = C\:APPSDCMProtonExport"
+2021-12-13 14:19:28 [ main:36 ] - [ INFO ] "Namer_Staging_Area = C\:APPSNMRSTAGEDCM"
+2021-12-13 14:19:28 [ main:36 ] - [ INFO ] "HardwareInterlock = FALSE"
+2021-12-13 14:19:28 [ main:36 ] - [ INFO ] "SendPlanTimeOut = 300"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] "SpotScanning = True"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] "DisbaleLoadReferenceData = 1"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] "VerifyHitachiRangeShifterByIdInsteadOfAccessoryCode = 1"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] "EnableMBCSNameExport = 1"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] "#DisableLoadReferenceData=1"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] "#ForceNPvsMU=1"
+2021-12-13 14:19:28 [ main:37 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:38 ] - [ INFO ] "DisableLoadReferenceData = 1"
+2021-12-13 14:19:28 [ main:38 ] - [ INFO ] "DisableLoadReferenceDataForQA = 1"
+2021-12-13 14:19:28 [ main:38 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:38 ] - [ INFO ] "[Local Cache]"
+2021-12-13 14:19:28 [ main:38 ] - [ INFO ] "Staff = 0"
+2021-12-13 14:19:28 [ main:38 ] - [ INFO ] ""
+2021-12-13 14:19:28 [ main:75 ] - [ INFO ] [Impac.ini] After updating impac.ini
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "[Global]"
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "Inst_ID = 1"
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "Temp = C\:Temp"
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "WorkstationID = "
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "ACC = G\:Stf_ID\=0"
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "MQFrameXYWH1536x864 = 2391,-9,2418,1468"
+2021-12-13 14:19:29 [ main:76 ] - [ INFO ] "CustomerReportsLoc = C\:MOSAIQ3.103.10.074IMPACMOSAIQ_APPReports1Calculator\=Calc.exe"
+2021-12-13 14:19:29 [ main:77 ] - [ INFO ] "AutoLogout = 0"
+2021-12-13 14:19:29 [ main:77 ] - [ INFO ] "AutoCWSLogout = 0"
+2021-12-13 14:19:29 [ main:77 ] - [ INFO ] "Workstation Location = "
+2021-12-13 14:19:29 [ main:77 ] - [ INFO ] "MQFrameXYWH1920x1080 = -8,-8,1936,1056"
+2021-12-13 14:19:29 [ main:77 ] - [ INFO ] "MQFrameXYWH1920x1200 = -8,-8,1936,1176"
+2021-12-13 14:19:29 [ main:78 ] - [ INFO ] "MQFrameXYWH2560x1440 = -8,-8,2576,1416"
+2021-12-13 14:19:29 [ main:78 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:78 ] - [ INFO ] "[Barcode]"
+2021-12-13 14:19:29 [ main:78 ] - [ INFO ] "Auto Queue Location = "
+2021-12-13 14:19:29 [ main:78 ] - [ INFO ] "Auto Queue = 0"
+2021-12-13 14:19:29 [ main:78 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:79 ] - [ INFO ] "[ESCRIBE]"
+2021-12-13 14:19:29 [ main:79 ] - [ INFO ] "UseWordViewer = YES"
+2021-12-13 14:19:29 [ main:79 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:79 ] - [ INFO ] "[BdsWorkstationSetup]"
+2021-12-13 14:19:29 [ main:79 ] - [ INFO ] "WorkstationID = MinimalBDSWkstn_TRFMSQ0156"
+2021-12-13 14:19:29 [ main:79 ] - [ INFO ] "BdsZoneID = 2"
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] "#------------------------------------------------IFS1909 VMI--------------------------------------------------------------------------------------------"
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] "[VMI]"
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] "VMIType = DTMI"
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] "VMIConfig = D\:\\MyProject\\test\\Data\\case\\FX1.cfg"
+2021-12-13 14:19:29 [ main:80 ] - [ INFO ] "Number of IODs = 0"
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] "#No Setup=1 // do not to change"
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] "No Ports = 1"
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] "No Open Ports = 1"
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] "[PROTON]"
+2021-12-13 14:19:29 [ main:81 ] - [ INFO ] "#Hitachi和非Hitachi机器在此切换："
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] "MachineName = Hitachi"
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] "#MachineName="StillRiver""
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] "#DTMIClass=Impac.Mosaiq.Dicom.DTMI.IFS1909.DTMIIFS1909"
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] "GetActuals = "True""
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] "SEQ_AE_TITLE = "IMS_SEQ1""
+2021-12-13 14:19:29 [ main:82 ] - [ INFO ] "PTCS_AE_TITLE = "IFS1909_SCP""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "SEQ_SERVICE_LIST = "IMS_SEQ1_SERVICE_LIST""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "#PTCS_AE_TITLE="TCS""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "#PPVS_AE_Title="DVTK""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "#PPVS_AE_Title="DVT_PPVS""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "PPVS_AE_Title = "DVTK_STR_SCP""
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "Import_Staging_Area = C\:APPSDCMProtonImport"
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "Export_Staging_Area = C\:APPSDCMProtonExport"
+2021-12-13 14:19:29 [ main:83 ] - [ INFO ] "Namer_Staging_Area = C\:APPSNMRSTAGEDCM"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "HardwareInterlock = FALSE"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "SendPlanTimeOut = 300"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "SpotScanning = True"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "DisbaleLoadReferenceData = 1"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "VerifyHitachiRangeShifterByIdInsteadOfAccessoryCode = 1"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "EnableMBCSNameExport = 1"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "#DisableLoadReferenceData=1"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "#ForceNPvsMU=1"
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:84 ] - [ INFO ] "DisableLoadReferenceData = 1"
+2021-12-13 14:19:29 [ main:85 ] - [ INFO ] "DisableLoadReferenceDataForQA = 1"
+2021-12-13 14:19:29 [ main:85 ] - [ INFO ] ""
+2021-12-13 14:19:29 [ main:85 ] - [ INFO ] "[Local Cache]"
+2021-12-13 14:19:29 [ main:85 ] - [ INFO ] "Staff = 0"
+2021-12-13 14:19:29 [ main:85 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:1 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:22:09 [ main:25 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:22:09 [ main:39 ] - [ INFO ] "[Global]"
+2021-12-13 14:22:09 [ main:40 ] - [ INFO ] "Inst_ID=1"
+2021-12-13 14:22:09 [ main:40 ] - [ INFO ] "Temp=C:\Temp"
+2021-12-13 14:22:09 [ main:40 ] - [ INFO ] "WorkstationID="
+2021-12-13 14:22:09 [ main:40 ] - [ INFO ] "ACC:G:Stf_ID=0"
+2021-12-13 14:22:09 [ main:40 ] - [ INFO ] "MQFrameXYWH1536x864=2391,-9,2418,1468"
+2021-12-13 14:22:09 [ main:41 ] - [ INFO ] "CustomerReportsLoc=C:\MOSAIQ\3.10\3.10.074\IMPAC\MOSAIQ_APP\Reports\1\ "
+2021-12-13 14:22:09 [ main:41 ] - [ INFO ] "Calculator=Calc.exe"
+2021-12-13 14:22:09 [ main:41 ] - [ INFO ] "AutoLogout=0"
+2021-12-13 14:22:09 [ main:41 ] - [ INFO ] "AutoCWSLogout=0"
+2021-12-13 14:22:09 [ main:41 ] - [ INFO ] "Workstation Location="
+2021-12-13 14:22:09 [ main:42 ] - [ INFO ] "MQFrameXYWH1920x1080=-8,-8,1936,1056"
+2021-12-13 14:22:09 [ main:42 ] - [ INFO ] "MQFrameXYWH1920x1200=-8,-8,1936,1176"
+2021-12-13 14:22:09 [ main:42 ] - [ INFO ] "MQFrameXYWH2560x1440=-8,-8,2576,1416"
+2021-12-13 14:22:09 [ main:42 ] - [ INFO ] "[Barcode]"
+2021-12-13 14:22:09 [ main:43 ] - [ INFO ] "Auto Queue Location="
+2021-12-13 14:22:09 [ main:43 ] - [ INFO ] "Auto Queue=0"
+2021-12-13 14:22:09 [ main:44 ] - [ INFO ] "[ESCRIBE]"
+2021-12-13 14:22:09 [ main:44 ] - [ INFO ] "UseWordViewer=YES"
+2021-12-13 14:22:09 [ main:44 ] - [ INFO ] "[BdsWorkstationSetup]"
+2021-12-13 14:22:09 [ main:44 ] - [ INFO ] "WorkstationID=MinimalBDSWkstn_TRFMSQ0156"
+2021-12-13 14:22:09 [ main:45 ] - [ INFO ] "BdsZoneID=2"
+2021-12-13 14:22:09 [ main:45 ] - [ INFO ] ";Default BDS settings added automatically. Date=5/28/2021 11:49:21 AM"
+2021-12-13 14:22:09 [ main:45 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:46 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:46 ] - [ INFO ] ";------------------------------------------------IFS1909 VMI--------------------------------------------------------------------------------------------"
+2021-12-13 14:22:09 [ main:46 ] - [ INFO ] "[VMI]"
+2021-12-13 14:22:09 [ main:47 ] - [ INFO ] "VMIType=DTMI"
+2021-12-13 14:22:09 [ main:47 ] - [ INFO ] "VMIConfig=C:\APPS\IMPAC\MOSAIQ_APP\VMI\FX1.cfg"
+2021-12-13 14:22:09 [ main:47 ] - [ INFO ] "Number of IODs=0"
+2021-12-13 14:22:09 [ main:48 ] - [ INFO ] ";No Setup=1 // do not to change"
+2021-12-13 14:22:09 [ main:48 ] - [ INFO ] "No Ports=1"
+2021-12-13 14:22:09 [ main:48 ] - [ INFO ] "No Open Ports=1"
+2021-12-13 14:22:09 [ main:49 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:49 ] - [ INFO ] "[PROTON]"
+2021-12-13 14:22:09 [ main:49 ] - [ INFO ] ";Hitachi和非Hitachi机器在此切换："
+2021-12-13 14:22:09 [ main:50 ] - [ INFO ] "MachineName="Hitachi""
+2021-12-13 14:22:09 [ main:50 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:50 ] - [ INFO ] ";MachineName="StillRiver" "
+2021-12-13 14:22:09 [ main:50 ] - [ INFO ] ";DTMIClass=Impac.Mosaiq.Dicom.DTMI.IFS1909.DTMIIFS1909	"
+2021-12-13 14:22:09 [ main:50 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:50 ] - [ INFO ] "GetActuals="True""
+2021-12-13 14:22:09 [ main:51 ] - [ INFO ] "SEQ_AE_TITLE="IMS_SEQ1""
+2021-12-13 14:22:09 [ main:51 ] - [ INFO ] "PTCS_AE_TITLE="IFS1909_SCP""
+2021-12-13 14:22:09 [ main:51 ] - [ INFO ] "SEQ_SERVICE_LIST="IMS_SEQ1_SERVICE_LIST""
+2021-12-13 14:22:09 [ main:51 ] - [ INFO ] ";PTCS_AE_TITLE="TCS""
+2021-12-13 14:22:09 [ main:51 ] - [ INFO ] ";PPVS_AE_Title="DVTK""
+2021-12-13 14:22:09 [ main:51 ] - [ INFO ] ";PPVS_AE_Title="DVT_PPVS""
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "PPVS_AE_Title="DVTK_STR_SCP""
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "Import_Staging_Area=C:\APPS\DCM\Proton\Import"
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "Export_Staging_Area=C:\APPS\DCM\Proton\Export"
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "Namer_Staging_Area=C:\APPS\NMR\STAGEDCM"
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "HardwareInterlock=FALSE"
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "SendPlanTimeOut=300"
+2021-12-13 14:22:09 [ main:52 ] - [ INFO ] "SpotScanning=True"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] "DisbaleLoadReferenceData=1"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] "VerifyHitachiRangeShifterByIdInsteadOfAccessoryCode=1"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] "EnableMBCSNameExport=1"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] ";DisableLoadReferenceData=1"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] ";ForceNPvsMU=1"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] "	"
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:53 ] - [ INFO ] "DisableLoadReferenceData=1		"
+2021-12-13 14:22:09 [ main:54 ] - [ INFO ] "DisableLoadReferenceDataForQA=1 "
+2021-12-13 14:22:09 [ main:54 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:54 ] - [ INFO ] ""
+2021-12-13 14:22:09 [ main:54 ] - [ INFO ] "[Local Cache]"
+2021-12-13 14:22:09 [ main:55 ] - [ INFO ] "Staff=0"
+2021-12-13 14:29:57 [ main:467945 ] - [ INFO ] [Impac.ini] After updating impac.ini
+2021-12-13 14:30:10 [ main:481535 ] - [ INFO ] "[Global]"
+2021-12-13 14:30:12 [ main:483169 ] - [ INFO ] "Inst_ID = 1"
+2021-12-13 14:30:16 [ main:487034 ] - [ INFO ] "Temp = C\:Temp"
+2021-12-13 14:30:18 [ main:488980 ] - [ INFO ] "WorkstationID = "
+2021-12-13 14:30:20 [ main:491083 ] - [ INFO ] "ACC = G\:Stf_ID\=0"
+2021-12-13 14:30:22 [ main:492945 ] - [ INFO ] "MQFrameXYWH1536x864 = 2391,-9,2418,1468"
+2021-12-13 14:30:34 [ main:505558 ] - [ INFO ] "CustomerReportsLoc = C\:MOSAIQ3.103.10.074IMPACMOSAIQ_APPReports1Calculator\=Calc.exe"
+2021-12-13 14:30:34 [ main:505560 ] - [ INFO ] "AutoLogout = 0"
+2021-12-13 14:30:34 [ main:505561 ] - [ INFO ] "AutoCWSLogout = 0"
+2021-12-13 14:30:34 [ main:505561 ] - [ INFO ] "Workstation Location = "
+2021-12-13 14:30:34 [ main:505562 ] - [ INFO ] "MQFrameXYWH1920x1080 = -8,-8,1936,1056"
+2021-12-13 14:30:34 [ main:505563 ] - [ INFO ] "MQFrameXYWH1920x1200 = -8,-8,1936,1176"
+2021-12-13 14:30:34 [ main:505564 ] - [ INFO ] "MQFrameXYWH2560x1440 = -8,-8,2576,1416"
+2021-12-13 14:30:34 [ main:505564 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505565 ] - [ INFO ] "[Barcode]"
+2021-12-13 14:30:34 [ main:505566 ] - [ INFO ] "Auto Queue Location = "
+2021-12-13 14:30:34 [ main:505566 ] - [ INFO ] "Auto Queue = 0"
+2021-12-13 14:30:34 [ main:505567 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505568 ] - [ INFO ] "[ESCRIBE]"
+2021-12-13 14:30:34 [ main:505568 ] - [ INFO ] "UseWordViewer = YES"
+2021-12-13 14:30:34 [ main:505569 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505570 ] - [ INFO ] "[BdsWorkstationSetup]"
+2021-12-13 14:30:34 [ main:505571 ] - [ INFO ] "WorkstationID = MinimalBDSWkstn_TRFMSQ0156"
+2021-12-13 14:30:34 [ main:505573 ] - [ INFO ] "BdsZoneID = 2"
+2021-12-13 14:30:34 [ main:505574 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505577 ] - [ INFO ] "#------------------------------------------------IFS1909 VMI--------------------------------------------------------------------------------------------"
+2021-12-13 14:30:34 [ main:505579 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505580 ] - [ INFO ] "[VMI]"
+2021-12-13 14:30:34 [ main:505582 ] - [ INFO ] "VMIType = DTMI"
+2021-12-13 14:30:34 [ main:505584 ] - [ INFO ] "VMIConfig = D\:\\MyProject\\test\\Data\\case\\FX1.cfg"
+2021-12-13 14:30:34 [ main:505585 ] - [ INFO ] "Number of IODs = 0"
+2021-12-13 14:30:34 [ main:505586 ] - [ INFO ] "#No Setup=1 // do not to change"
+2021-12-13 14:30:34 [ main:505586 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505587 ] - [ INFO ] "No Ports = 1"
+2021-12-13 14:30:34 [ main:505588 ] - [ INFO ] "No Open Ports = 1"
+2021-12-13 14:30:34 [ main:505588 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505589 ] - [ INFO ] "[PROTON]"
+2021-12-13 14:30:34 [ main:505590 ] - [ INFO ] "#Hitachi和非Hitachi机器在此切换："
+2021-12-13 14:30:34 [ main:505590 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505591 ] - [ INFO ] "MachineName = Hitachi"
+2021-12-13 14:30:34 [ main:505592 ] - [ INFO ] "#MachineName="StillRiver""
+2021-12-13 14:30:34 [ main:505593 ] - [ INFO ] "#DTMIClass=Impac.Mosaiq.Dicom.DTMI.IFS1909.DTMIIFS1909"
+2021-12-13 14:30:34 [ main:505593 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505594 ] - [ INFO ] "GetActuals = "True""
+2021-12-13 14:30:34 [ main:505595 ] - [ INFO ] "SEQ_AE_TITLE = "IMS_SEQ1""
+2021-12-13 14:30:34 [ main:505595 ] - [ INFO ] "PTCS_AE_TITLE = "IFS1909_SCP""
+2021-12-13 14:30:34 [ main:505596 ] - [ INFO ] "SEQ_SERVICE_LIST = "IMS_SEQ1_SERVICE_LIST""
+2021-12-13 14:30:34 [ main:505596 ] - [ INFO ] "#PTCS_AE_TITLE="TCS""
+2021-12-13 14:30:34 [ main:505597 ] - [ INFO ] "#PPVS_AE_Title="DVTK""
+2021-12-13 14:30:34 [ main:505597 ] - [ INFO ] "#PPVS_AE_Title="DVT_PPVS""
+2021-12-13 14:30:34 [ main:505598 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505598 ] - [ INFO ] "PPVS_AE_Title = "DVTK_STR_SCP""
+2021-12-13 14:30:34 [ main:505599 ] - [ INFO ] "Import_Staging_Area = C\:APPSDCMProtonImport"
+2021-12-13 14:30:34 [ main:505599 ] - [ INFO ] "Export_Staging_Area = C\:APPSDCMProtonExport"
+2021-12-13 14:30:34 [ main:505600 ] - [ INFO ] "Namer_Staging_Area = C\:APPSNMRSTAGEDCM"
+2021-12-13 14:30:34 [ main:505601 ] - [ INFO ] "HardwareInterlock = FALSE"
+2021-12-13 14:30:34 [ main:505601 ] - [ INFO ] "SendPlanTimeOut = 300"
+2021-12-13 14:30:34 [ main:505602 ] - [ INFO ] "SpotScanning = True"
+2021-12-13 14:30:34 [ main:505602 ] - [ INFO ] "DisbaleLoadReferenceData = 1"
+2021-12-13 14:30:34 [ main:505603 ] - [ INFO ] "VerifyHitachiRangeShifterByIdInsteadOfAccessoryCode = 1"
+2021-12-13 14:30:34 [ main:505603 ] - [ INFO ] "EnableMBCSNameExport = 1"
+2021-12-13 14:30:34 [ main:505604 ] - [ INFO ] "#DisableLoadReferenceData=1"
+2021-12-13 14:30:34 [ main:505604 ] - [ INFO ] "#ForceNPvsMU=1"
+2021-12-13 14:30:34 [ main:505605 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505605 ] - [ INFO ] "DisableLoadReferenceData = 1"
+2021-12-13 14:30:34 [ main:505606 ] - [ INFO ] "DisableLoadReferenceDataForQA = 1"
+2021-12-13 14:30:34 [ main:505606 ] - [ INFO ] ""
+2021-12-13 14:30:34 [ main:505607 ] - [ INFO ] "[Local Cache]"
+2021-12-13 14:30:34 [ main:505607 ] - [ INFO ] "Staff = 0"
+2021-12-13 14:30:34 [ main:505608 ] - [ INFO ] ""
+2021-12-13 14:35:42 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:36:15 [ main:33591 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:43:35 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:43:35 [ main:24 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:44:53 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:44:53 [ main:27 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:47:24 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:47:24 [ main:23 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:53:22 [ main:1 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:53:22 [ main:25 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:54:30 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:54:30 [ main:30 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:54:59 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:54:59 [ main:29 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 14:58:38 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 14:58:38 [ main:28 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:00:11 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:00:11 [ main:22 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:07:39 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:07:39 [ main:21 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:08:40 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:08:40 [ main:22 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:10:30 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:10:30 [ main:26 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:28:28 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:28:28 [ main:28 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:29:28 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:29:28 [ main:23 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:31:02 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:31:03 [ main:18 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:31:36 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:31:36 [ main:26 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:32:11 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:32:11 [ main:27 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:33:08 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:33:08 [ main:25 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:35:57 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:35:57 [ main:21 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:36:28 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:36:28 [ main:14 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:45:30 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:45:30 [ main:19 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:46:44 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:46:44 [ main:15 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 15:47:12 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 15:47:12 [ main:17 ] - [ INFO ] [Impac.ini] Before updating impac.ini
+2021-12-13 16:04:27 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:04:27 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:04:27 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:04:53 [ main:26620 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:04:53 [ main:26622 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:04:53 [ main:26622 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:05:10 [ main:42907 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:05:12 [ main:45480 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:05:13 [ main:46612 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:05:14 [ main:47643 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:05:25 [ main:57795 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:05:32 [ main:65260 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:06:45 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:06:45 [ main:14 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:06:45 [ main:23 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:07:11 [ main:26456 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:07:11 [ main:26458 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:07:11 [ main:26458 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:07:30 [ main:45151 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:07:32 [ main:47578 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:07:33 [ main:48680 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:07:34 [ main:49688 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:07:44 [ main:59811 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:07:52 [ main:67107 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:09:19 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:09:19 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:09:19 [ main:15 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:09:46 [ main:26331 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:09:46 [ main:26333 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:09:46 [ main:26334 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:10:01 [ main:41794 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:10:04 [ main:44330 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:10:05 [ main:45553 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:10:06 [ main:46574 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:10:16 [ main:56718 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:10:23 [ main:63799 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:21:32 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:21:32 [ main:16 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:21:32 [ main:23 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:21:59 [ main:26900 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:21:59 [ main:26930 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:21:59 [ main:26931 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:22:18 [ main:45660 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:22:20 [ main:48126 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:22:21 [ main:49180 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:22:22 [ main:50160 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:22:32 [ main:60287 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:22:40 [ main:67742 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:22:46 [ main:73535 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 16:24:15 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:24:15 [ main:9 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:24:15 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:24:21 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:24:21 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:24:21 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:24:47 [ main:26825 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:24:47 [ main:26855 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:24:47 [ main:26856 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:25:06 [ main:45428 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:25:08 [ main:47819 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:25:09 [ main:48916 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:25:10 [ main:49909 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:25:21 [ main:60043 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:25:28 [ main:67068 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:25:33 [ main:72689 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 16:25:43 [ main:82754 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 16:25:50 [ main:89904 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:25:56 [ main:95573 ] - [ INFO ] [SelectPatient][Button Click] Click 'Directories' BUtton
+2021-12-13 16:27:54 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:27:54 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:27:54 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:27:59 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:27:59 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:27:59 [ main:20 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:28:26 [ main:26491 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:28:26 [ main:26497 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:28:26 [ main:26497 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:28:40 [ main:41036 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:28:43 [ main:43594 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:28:44 [ main:44666 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:28:45 [ main:45643 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:28:55 [ main:55785 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:29:02 [ main:63078 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:29:08 [ main:68906 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 16:29:18 [ main:78997 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 16:29:26 [ main:86873 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:29:32 [ main:92439 ] - [ INFO ] [SelectPatient][Button Click] Click 'Directories' BUtton
+2021-12-13 16:29:38 [ main:98482 ] - [ INFO ] [SelectPatient][Button Click] Click 'Directories' BUtton
+2021-12-13 16:36:57 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:36:57 [ main:13 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:36:57 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:37:23 [ main:26325 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:37:23 [ main:26328 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:37:23 [ main:26328 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:37:37 [ main:40509 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:37:40 [ main:42949 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:37:41 [ main:44065 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:37:42 [ main:45103 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:37:52 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:37:52 [ main:18 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:37:52 [ main:29 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:38:19 [ main:26468 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:38:19 [ main:26475 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:38:19 [ main:26475 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:38:33 [ main:41038 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:38:36 [ main:43466 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:38:37 [ main:44527 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:38:38 [ main:45606 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:38:48 [ main:55772 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:38:55 [ main:62977 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:39:01 [ main:68689 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 16:39:11 [ main:78763 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 16:39:18 [ main:85840 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 16:39:24 [ main:91568 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 16:39:30 [ main:97410 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 16:39:40 [ main:108122 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 16:47:37 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:47:37 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:47:37 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 16:48:04 [ main:26367 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 16:48:04 [ main:26374 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 16:48:04 [ main:26374 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 16:48:18 [ main:41114 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 16:48:21 [ main:43597 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 16:48:22 [ main:44715 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 16:48:23 [ main:45704 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 16:48:33 [ main:55837 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 16:48:40 [ main:63131 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 16:48:47 [ main:69437 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 16:48:57 [ main:79547 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 16:49:04 [ main:87242 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 16:49:11 [ main:94174 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 16:49:19 [ main:102180 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 16:49:31 [ main:113462 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 16:59:57 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 16:59:57 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 16:59:57 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 17:00:23 [ main:26512 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 17:00:23 [ main:26521 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 17:00:23 [ main:26521 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 17:00:38 [ main:40919 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 17:00:40 [ main:43458 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 17:00:41 [ main:44587 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 17:00:42 [ main:45638 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 17:00:53 [ main:55779 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 17:01:00 [ main:63522 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 17:01:08 [ main:70909 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 17:01:18 [ main:80985 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 17:01:25 [ main:88000 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 17:01:30 [ main:93597 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 17:01:36 [ main:99416 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 17:01:47 [ main:110277 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 17:12:15 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 17:12:15 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 17:12:15 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 17:12:41 [ main:26323 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 17:12:41 [ main:26330 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 17:12:41 [ main:26330 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 17:12:55 [ main:40256 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 17:12:58 [ main:42567 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 17:12:59 [ main:43596 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 17:13:00 [ main:44554 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 17:13:10 [ main:54691 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 17:13:17 [ main:61820 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 17:13:23 [ main:67431 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 17:13:33 [ main:77503 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 17:13:40 [ main:84524 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 17:13:45 [ main:90004 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 17:13:51 [ main:95543 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 17:14:01 [ main:106320 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 17:15:46 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 17:15:46 [ main:11 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 17:15:46 [ main:19 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 17:16:13 [ main:26300 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 17:16:13 [ main:26307 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 17:16:13 [ main:26307 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 17:16:27 [ main:40380 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 17:16:29 [ main:42802 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 17:16:30 [ main:43841 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 17:16:31 [ main:44817 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 17:16:41 [ main:54953 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 17:16:48 [ main:61934 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 17:16:54 [ main:67383 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 17:17:04 [ main:77462 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 17:17:11 [ main:84490 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 17:17:17 [ main:90280 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 17:17:22 [ main:95927 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 17:17:33 [ main:106267 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 17:30:41 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 17:30:41 [ main:10 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 17:30:41 [ main:17 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 17:31:07 [ main:26333 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 17:31:07 [ main:26342 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 17:31:07 [ main:26342 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 17:31:21 [ main:40551 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 17:31:24 [ main:43033 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 17:31:25 [ main:44097 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 17:31:26 [ main:45091 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 17:31:36 [ main:55213 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 17:31:43 [ main:62445 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 17:31:49 [ main:68228 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 17:31:59 [ main:78312 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 17:32:06 [ main:85603 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 17:32:12 [ main:91449 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 17:32:18 [ main:97236 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 17:32:29 [ main:107936 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 17:40:17 [ main:0 ] - [ INFO ] ---------------------------Update Impac.ini---------------------------
+2021-12-13 17:40:17 [ main:12 ] - [ INFO ] ---------------------------Mosaiq version isLNG_2021.20.020---------------------------
+2021-12-13 17:40:17 [ main:18 ] - [ INFO ] [Launch APP] start to launch accwin.exe
+2021-12-13 17:40:44 [ main:26258 ] - [ INFO ] [Launch APP] accwin.exe launch successfully
+2021-12-13 17:40:44 [ main:26264 ] - [ INFO ] ---------------------------MOSAIQ: start to login---------------------------
+2021-12-13 17:40:44 [ main:26265 ] - [ INFO ] [Login MOSAIQ][Button Click] Click 'OK' Button util login UI show up
+2021-12-13 17:40:58 [ main:40257 ] - [ INFO ] [Login MOSAIQ][Button Click] current it's on 'Login' UI
+2021-12-13 17:41:00 [ main:42581 ] - [ INFO ] [Login MOSAIQ][Text Input] send username on 'Login' UI
+2021-12-13 17:41:01 [ main:43664 ] - [ INFO ] [Login MOSAIQ][Text Input] send password on 'Login' UI
+2021-12-13 17:41:02 [ main:44574 ] - [ INFO ] [Login MOSAIQ][Button Click] Login successfully
+2021-12-13 17:41:12 [ main:54689 ] - [ INFO ] ---------------------------MOSAIQ : start to Select Patient when the patient exists---------------------------
+2021-12-13 17:41:19 [ main:61856 ] - [ INFO ] [SelectPatient][Button Click] Click 'File' Button
+2021-12-13 17:41:25 [ main:67477 ] - [ INFO ] [SelectPatient][Button Click] Click Patient Name Item
+2021-12-13 17:41:35 [ main:77549 ] - [ INFO ] ---------------------------MOSAIQ : start to add machine in Location Directory---------------------------
+2021-12-13 17:41:42 [ main:84547 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'File' Button
+2021-12-13 17:41:47 [ main:90023 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Directories' BUtton
+2021-12-13 17:41:53 [ main:95739 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Location Directory...' BUtton
+2021-12-13 17:42:03 [ main:105799 ] - [ INFO ] [Add Machine In Location Directory][Button Click] Click 'Add' BUtton
+2021-12-13 17:43:27 [ main:189594 ] - [ INFO ] [Add Machine In Location Directory][Input Click] Click 'Add' BUtton

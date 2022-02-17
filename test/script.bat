@@ -4,6 +4,4 @@ SET WinAppDriver_EXEFILE=C:\Program Files (x86)\Windows Application Driver\WinAp
 SET MOSAIQ_INSTALL_PATH=C:\MOSAIQ\2022.10\2022.10.032\IMPAC\MOSAIQ_APP
 if exist %WinAppDriver_EXEFILE%
 	echo 'found WinAppDriver exe file'
-if exist %MOSAIQ_INSTALL_PATH%
-	echo 'found Mosaiq installation file'
 copy WinAppDriver_EXEFILE  MOSAIQ_INSTALL_PATH
